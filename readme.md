@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de **README** simples para o seu projeto, cobrindo como executar o projeto, testar login, e detalhar os acessos dos usuários:
 
 ---
 
