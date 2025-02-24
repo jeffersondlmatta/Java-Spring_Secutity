@@ -1,10 +1,4 @@
 
----
-
-# Spring Security Example
-
-Este é um exemplo básico de uma aplicação Spring Security que implementa login com diferentes permissões de acesso. O projeto oferece duas roles de usuário: `USER` e `MASTER`, com diferentes permissões para acessar páginas específicas.
-
 ## Como Executar o Projeto
 
 ### 1. **Clonar o repositório**
